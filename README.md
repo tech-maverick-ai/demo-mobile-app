@@ -19,4 +19,4 @@ This app is monitored with New Relic Mobile for:
 - App performance
 - Crash reporting
 - Network requests
-- User interactions
+- User interaction
